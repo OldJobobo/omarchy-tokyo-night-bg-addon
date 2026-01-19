@@ -22,7 +22,7 @@ A curated set of wallpapers themed around the Tokyo Night palette for Omarchy.
 
 Clone the repo, then use one of these paths and drag and drop the wallpapers you want into the folder Omarchy opens:
 
-```bash
+```
 git clone https://github.com/OldJobobo/omarchy-tokyo-night-bg-addon.git
 ```
 
