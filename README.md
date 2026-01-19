@@ -22,7 +22,7 @@ A curated set of wallpapers themed around the Tokyo Night palette for Omarchy.
 
 Clone the repo, then use one of these paths and drag and drop the wallpapers you want into the folder Omarchy opens:
 
-```
+```bash
 git clone https://github.com/OldJobobo/omarchy-tokyo-night-bg-addon.git
 ```
 
@@ -48,15 +48,15 @@ Want to add your own Tokyo Night themed wallpaper? We'd love your contribution! 
 
 #### Option B: Using Git (If you're comfortable with command line)
 1. Clone your forked repository:
-   ```bash
+```bash
 git clone https://github.com/YOUR-USERNAME/omarchy-tokyo-night-bg-addon.git
 cd omarchy-tokyo-night-bg-addon
 ```
 2. Copy your wallpaper file into the repository folder
 3. Add and commit your changes:
-   ```bash
+```bash
 git add your-wallpaper-name.jpg
-   git commit -m "Add new wallpaper: your-wallpaper-name.jpg"
+git commit -m "Add new wallpaper: your-wallpaper-name.jpg"
 git push
 ```
 
