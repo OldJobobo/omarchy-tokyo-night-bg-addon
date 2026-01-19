@@ -28,3 +28,50 @@ git clone https://github.com/OldJobobo/omarchy-tokyo-night-bg-addon.git
 
 - `omarchy-theme-bg-install`
 - Omarchy Menu > Install > Style > Background
+
+## Contributing Wallpapers
+
+Want to add your own Tokyo Night themed wallpaper? We'd love your contribution! Here's a simple step-by-step guide:
+
+### Step 1: Fork the Repository
+1. Click the **Fork** button at the top right of this page
+2. This creates your own copy of the repository
+
+### Step 2: Upload Your Wallpaper
+
+#### Option A: Using GitHub's Website (Easiest!)
+1. Go to **your forked repository** (it will be at `https://github.com/YOUR-USERNAME/omarchy-tokyo-night-bg-addon`)
+2. Click **Add file** → **Upload files**
+3. Drag and drop your wallpaper image(s) or click to browse
+4. Give your wallpaper a descriptive filename (e.g., `neon_city_skyline.jpg`)
+5. Scroll down and click **Commit changes**
+
+#### Option B: Using Git (If you're comfortable with command line)
+1. Clone your forked repository:
+   ```bash
+git clone https://github.com/YOUR-USERNAME/omarchy-tokyo-night-bg-addon.git
+cd omarchy-tokyo-night-bg-addon
+```
+2. Copy your wallpaper file into the repository folder
+3. Add and commit your changes:
+   ```bash
+git add your-wallpaper-name.jpg
+   git commit -m "Add new wallpaper: your-wallpaper-name.jpg"
+git push
+```
+
+### Step 3: Submit a Pull Request
+1. Go back to **your forked repository** on GitHub
+2. Click the **Contribute** button, then **Open pull request**
+3. Add a brief description of your wallpaper
+4. Click **Create pull request**
+
+That's it! I'll review your submission and merge it if it fits the Tokyo Night theme. 
+
+### Wallpaper Guidelines
+- **Theme**: Should match the Tokyo Night color palette (purples, blues, pinks, neon accents)
+- **Format**: JPG or PNG
+- **Resolution**: Higher resolution is better (1920x1080 minimum recommended)
+- **Filename**: Use descriptive, lowercase names with underscores (e.g., `cyberpunk_street.jpg`)
+
+Thank you for contributing! 🌃✨
